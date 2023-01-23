@@ -1,5 +1,5 @@
 # The Cows Do Say
-## A very dangerous endevor, and image of angles, bocomes an angle
+## A very dangerous endevor, an image of an angle, bocomes an angle
 
 ```_____________
 < Don't Blink >
